@@ -1,2 +1,2 @@
 # IAM_Web
-IAM web with React, Figma, Tensor.js
+IAM web with React, Figma, Tensorflow.js
